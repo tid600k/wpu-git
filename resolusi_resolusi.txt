@@ -1,0 +1,25 @@
+MIND MAPPING
+
+softwere:
+-git github
+-etc.
+
+code:
+-html
+-css
+-js
+-typescript
+
+framework:
+-bootstrap
+-django
+-rect/vue/nodejs
+
+database:
+-mysql
+-mongodb
+
+goals:
+-website
+-pwa
+-
